@@ -1,0 +1,23 @@
+{
+  "title": "我的 Gmeek 博客",
+  "subtitle": "基于 GitHub Issue + Gmeek 自动生成",
+  "displayTitle": "我的技术博客",
+  "avatarUrl": "https://cdn.staticaly.com/gh/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/docs/images/landing-page/github-logo.svg",
+  "faviconUrl": "https://cdn.staticaly.com/gh/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/docs/images/landing-page/github-logo.svg",
+  "ogImage": "https://cdn.staticaly.com/gh/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/docs/images/landing-page/github-logo.svg",
+  "email": "your-github-email@example.com",
+  "i18n": "CN",
+  "themeMode": "manual",
+  "dayTheme": "light",
+  "nightTheme": "dark",
+  "urlMode": "pinyin",
+  "onePageListNum": 10,
+  "UTC": 8,
+  "singlePage": [],
+  "showPostSource": 1,
+  "needComment": 1,
+  "bottomText": "© 2025 我的博客 | 基于 Gmeek 构建",
+  "yearColorList": ["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+  "commentLabelColor": "#006b75",
+  "rssSplit": "sentence"
+}
