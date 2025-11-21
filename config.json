@@ -1,6 +1,6 @@
 {
   "title": "我的 Gmeek 博客",
-  "subtitle": "基于 GitHub Issue + Gmeek 自动生成",
+  "subtitle": "基于 GitHub Issue + Gmeek 自动生成",  // 保持小写 t
   "displayTitle": "我的技术博客",
   "avatarUrl": "https://cdn.staticaly.com/gh/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/docs/images/landing-page/github-logo.svg",
   "faviconUrl": "https://cdn.staticaly.com/gh/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/docs/images/landing-page/github-logo.svg",
