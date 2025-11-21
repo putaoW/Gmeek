@@ -267,7 +267,7 @@ class GMEEK():
         self.blogBase["postListJson"]=dict(sorted(self.blogBase["postListJson"].items(),key=lambda x:x[1]["createdAt"],reverse=False))#使列表由时间排序
         feed = FeedGenerator()
         feed.title(self.blogBase["title"])
-        feed.description(self.blogBase["subTitle"])
+        feed.description(self.blogBase["subtitle"])
         feed.link(href=self.blogBase["homeUrl"])
         feed.image(url=self.blogBase["avatarUrl"],title="avatar", link=self.blogBase["homeUrl"])
         feed.copyright(self.blogBase["title"])
